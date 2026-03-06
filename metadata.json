@@ -1,0 +1,5 @@
+{
+  "name": "Movie Tycoon Simulator",
+  "description": "A deep simulation game where you manage a movie studio, produce films, and dominate the box office.",
+  "requestFramePermissions": []
+}
